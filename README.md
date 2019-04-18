@@ -1,7 +1,7 @@
 # Nerdstore
 <h3>Projeto, crawler de e-comerce, extraindo alguns produtos específicos</br></h3>
 1 - Criado projeto e confiruando o mesmo(database postgresql) </br>
-2 - Criado APP Main e o Modelo Produto </br>
+2 - Criado APP Main e o Modelo Produto e Test do model</br>
 3 - Adicionando rest_framwork, serializer model Produto </br>
 4 - Adiconando scrapy </br>
 5 - Craindo projeto scrapy chamado scraper </br>
